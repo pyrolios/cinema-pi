@@ -1,3 +1,5 @@
+V1
+
 CINEMA PI: HEADLESS MEDIA PLAYER FOR RASPBERRY PI 5
 
 Cinema Pi transforms a Raspberry Pi 5 running a minimal OS (like Pi OS Lite 64-bit) into a dedicated, high-performance media player, entirely controlled via SSH.
